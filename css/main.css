@@ -26,4 +26,23 @@ p, h1, h2, figcaption {
 
 body {
     background-color:cornsilk;
+    border: 5px solid black;
+    margin: 20px 20px;
+    padding: 0px 20px 0px 20px;
+}
+
+html {
+    background-color: yellowgreen
+}
+
+.first-section {
+    border: 1rem violet dashed;
+    padding: 0px 20px 0px 20px;
+
+}
+
+.second-section {
+    border: 10px rgb(130, 238, 211) double;
+    padding: 0px 20px 0px 20px;
+    margin-top: 20px;
 }
