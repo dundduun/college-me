@@ -36,13 +36,17 @@ html {
 }
 
 .first-section {
-    border: 1rem violet dashed;
+    border: 4px rgb(112, 80, 39) solid;
     padding: 0px 20px 0px 20px;
-
+    background-color: rgb(206, 250, 118);
+    border-radius: 15px;
+    box-shadow: 10px 10px 63px 0px rgba(0,0,0,0.33);
 }
 
 .second-section {
-    border: 10px rgb(130, 238, 211) double;
+    border: 4px rgb(112, 80, 39) solid;
     padding: 0px 20px 0px 20px;
     margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 63px 0px rgba(0,0,0,0.33);
 }
